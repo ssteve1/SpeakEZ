@@ -57,7 +57,7 @@ It’s built with modern frontend technologies and powered by OpenAI’s Whisper
 ---
 
 ## 🔗 Demo & Screenshots
-> _
+> https://github.com/ssteve1/SpeakEZ/tree/main/Images
 
 ---
 
